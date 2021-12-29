@@ -9,7 +9,7 @@
 
 [4. Этапы работы над проектом](https://github.com/Maxler1/sf_data_scince/tree/main/project_0#Этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/Maxler1/sf_data_scince/tree/main/project_0#Результаты)
+[5. Результаты](https://github.com/Maxler1/sf_data_scince/tree/main/project_0#Результаты)
 
 [6. Выводы](https://github.com/Maxler1/sf_data_scince/tree/main/project_0#Выводы)
 
