@@ -11,7 +11,7 @@
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/Maxler1/sf_data_scince/tree/main/guess-number-task)
+:arrow_up:[к оглавлению](https://github.com/Maxler1/sf_data_scince/tree/main/guess-number-task#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Какой кейс решаем?    
@@ -31,24 +31,24 @@
 ### Краткая информация о данных
 ....
   
-:arrow_up:[к оглавлению](https://github.com/Maxler1/sf_data_scince/tree/main/guess-number-task)
+:arrow_up:[к оглавлению](https://github.com/Maxler1/sf_data_scince/tree/main/guess-number-task#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Этапы работы над проектом  
 ....
 
-:arrow_up:[к оглавлению](https://github.com/Maxler1/sf_data_scince/tree/main/guess-number-task)
+:arrow_up:[к оглавлению](https://github.com/Maxler1/sf_data_scince/tree/main/guess-number-task#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Результаты:  
 ....
 
-:arrow_up:[к оглавлению](https://github.com/Maxler1/sf_data_scince/tree/main/guess-number-task)
+:arrow_up:[к оглавлению](https://github.com/Maxler1/sf_data_scince/tree/main/guess-number-task#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Выводы:  
 ....
 
-:arrow_up:[к оглавлению](https://github.com/Maxler1/sf_data_scince/tree/main/guess-number-task)
+:arrow_up:[к оглавлению](https://github.com/Maxler1/sf_data_scince/tree/main/guess-number-task#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
